@@ -1,0 +1,37 @@
+body {
+    background-color: #d3e669;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+body {
+    background-image: url('imagens/fundo.png');
+    background-size: cover; /* Faz com que a imagem cubra todo o fundo */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Impede que a imagem se repita */
+    color: black; /* Altera a cor do texto para branco */
+}
+body {
+    background-image: url('imagens/fundo.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: black; /* Mude a cor do texto se necessário */
+}
+
+h1 {
+    color: #080606; /* Cor do título */
+    font-weight: bold;
+}
+
+.card {
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Fundo branco semi-transparente para os cartões */
+    color: black; /* Cor do texto nos cartões */
+    font-weight: bold; /* Altera para negrito nos cartões */
+}
